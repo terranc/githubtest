@@ -16,7 +16,7 @@
 可以通过以下命令克隆此仓库：
 
 ```bash
-git clone https://github.com/你的用户名/githubtest.git
+git clone https://github.com/terranc/githubtest.git
 ```
 
 ## 贡献
